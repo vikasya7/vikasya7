@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">Digital Specialist Engineer @ Infosys | B.Tech IT, IIIT Bhubaneswar (2022–26)</h3>
+<h3 align="center">B.Tech IT, IIIT Bhubaneswar (2022–26)</h3>
 
 <p align="center">
 I build full-stack products end-to-end — from RAG pipelines and AI-powered tools to production e-commerce platforms — and compete in DSA/CP on the side.
